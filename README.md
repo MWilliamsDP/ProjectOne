@@ -13,7 +13,3 @@ Data was used from: Google's Places Api, and NYC Airbnb Data Csv.
 
 3. Is there a relationship between the minimum number of nights and the borough/neighborhood?
 -------------------------------------------------
-Data Exploration in regards to whether or not a airbnb's price has a relationship with local amenities...
-![NYC_Airbnb_Listing_Price_vs_Average_Price_Level](https://user-images.githubusercontent.com/85418720/128043238-ff9902bf-4d94-4eb2-8642-bbe7ed210c3c.png)
-![NYC_Airbnb_Listing_Price_vs_Customer_Rating](https://user-images.githubusercontent.com/85418720/128043318-a00dcd18-f01a-43d6-b2ef-781bffb1f88b.png)
-
