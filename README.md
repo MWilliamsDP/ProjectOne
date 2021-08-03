@@ -15,4 +15,6 @@ Questions:
 
 3. Is there a relationship between the minimum number of nights and the borough/neighborhood?
 
+4. Is there a relationship between the number of properties posted by a host and the price?
+
 -------------------------------------------------
