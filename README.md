@@ -11,7 +11,7 @@ Questions:
 
 1. Do the surrounding amenities make a difference in the popularity/or price of a particular property? Is there a particular type that stands out, for example restaurants?
 
-2. Are any boroughs/neighborhoods more popular consistently/does the time of year make a difference?
+2. Are any boroughs/neighborhoods more popular consistently?
 
 3. Is there a relationship between the minimum number of nights and the borough/neighborhood?
 
