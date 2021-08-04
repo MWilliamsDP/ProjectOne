@@ -18,3 +18,5 @@ Questions:
 4. Is there a relationship between the number of properties posted by a host and the price?
 
 -------------------------------------------------
+
+Prezi Presentation Link: https://prezi.com/p/edit/87fkpynsiadx/
